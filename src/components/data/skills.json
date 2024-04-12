@@ -1,0 +1,44 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "TailWind CSS",
+    "imageSrc": "skills/tq.png"
+  },
+  {
+    "title":"GIT & Github",
+    "imageSrc":"skills/gh.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mq.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/boot.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+  ,
+  {
+    "title": "Sass",
+    "imageSrc": "skills/sass.png"
+    
+  }
+]
