@@ -1,5 +1,5 @@
 import React from "react";
-import { FaHome,FaPhone,FaUser,FaUserGraduate,FaCode,FaFolder,FaHistory} from "react-icons/fa";
+
 
 const Navbar = () => {
   return (
@@ -12,19 +12,19 @@ const Navbar = () => {
         <div className="right">
           <a href="#home" className="nav_items">
             Home
-                <FaHome/>
+               
           </a>
           <a href="#experience" className="nav_items">
-            Experience<FaHistory/>
+            Experience
           </a>
           <a href="#skills" className="nav_items">
-            Skills<FaCode/>
+            Skills
           </a>
           <a href="#projects" className="nav_items">
-            Projects<FaFolder/>
+            Projects
           </a>
           <a href="#contact" className="nav_items">
-            Contact<FaPhone/>
+            Contact
           </a>
         </div>
       </div>
