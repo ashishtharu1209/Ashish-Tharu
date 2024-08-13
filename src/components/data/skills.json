@@ -24,8 +24,8 @@
     "imageSrc":"skills/gh.png"
   },
   {
-    "title": "MySQL",
-    "imageSrc": "skills/mq.png"
+    "title": "MongoDb",
+    "imageSrc": "skills/mongo.png"
   },
   {
     "title": "BootStrap",
