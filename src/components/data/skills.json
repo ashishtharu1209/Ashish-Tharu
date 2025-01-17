@@ -1,44 +1,36 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "LINUX",
+    "imageSrc": "skills/ubu.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Docker,Container",
+    "imageSrc": "skills/dock.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "title": "CI/CD",
+    "imageSrc": "skills/gl.png"
   },
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "Nginx",
+    "imageSrc": "skills/n.png"
   },
   {
-    "title": "TailWind CSS",
-    "imageSrc": "skills/tq.png"
+    "title": "Cronjob",
+    "imageSrc": "skills/cro.png"
   },
   {
-    "title":"GIT & Github",
+    "title":"GIT/Github/Lab",
     "imageSrc":"skills/gh.png"
   },
   {
-    "title": "MongoDb",
-    "imageSrc": "skills/mongo.png"
+    "title": "Bash scripting",
+    "imageSrc": "skills/bash.png"
   },
   {
-    "title": "BootStrap",
-    "imageSrc": "skills/boot.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Golang",
+    "imageSrc": "skills/go.png"
   }
-  ,
-  {
-    "title": "Sass",
-    "imageSrc": "skills/sass.png"
-    
-  }
+  
+  
 ]

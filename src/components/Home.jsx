@@ -10,8 +10,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Ashish Kumar Tharu",
-        "I'm Frontend developer",
-        "(React js)",
+        "I'm Beginner Devops Enthusiast"
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -33,7 +32,7 @@ const Home = () => {
 
           <a
             href={pdf}
-            download="Res.pdf"
+            download="ashish.pdf"
             className="btn btn-outline-warning my-3"
           >
             Download Resume

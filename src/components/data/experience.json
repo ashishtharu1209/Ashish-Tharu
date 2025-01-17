@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "role": "Currently A Beginner & Searching For The Opportunities",
+    "role": "Learning & Gaining experience",
     "experiences": [
-      "Actively Involved In the Different web Development Projects",
-      "1 year of experience On Working With React JS,HTML,CSS frameworks"
+      "DevOps Enthusiast with a strong foundation in Linux system administration, scripting, and networking. ",
+      " Proficient in automation techniques, version control (Git/GitHub), and building CI/CD pipelines using GitLab CI/CD. Skilled in deploying and managing web servers (Nginx) and working with the Docker & Containers."
     ],
-    "imageSrc": "Framework/react1.png"
+    "imageSrc": "Framework/dd.png"
   }
 ]
