@@ -1,29 +1,29 @@
 [
   {
     "key": 1,
-    "title": "Server Migration",
-    "imageSrc": "https://www.accuwebhosting.com/blog/wp-content/uploads/2024/01/1___YhA5RwN4yWeabV8M1YlA-2.png",
-    "description": "implemented Server Migration for LEMP stack app using virtual Env"
+    "title": "K8s Deployment",
+    "imageSrc": "https://icon2.cleanpng.com/20180928/akh/kisspng-kubernetes-docker-software-deployment-logo-orchest-manage-containers-and-microservices-easily-with-we-5baea143cb69e0.0663520415381712038332.jpg",
+    "description": "Prepared k8s manifest Files for different resources and deployed to K8s cluster"
     
   },
   {
     "key": 2,
     "title": "Docker Containerization",
     "imageSrc": "https://blog.codewithdan.com/wp-content/uploads/2023/06/Docker-Logo.png",
-    "description": "Implemented Docker And container for different applications"
+    "description": "containerized the application made using php--mysql using docker-compose"
     
   },
   {
     "key": 3,
-    "title": "Cronjob for Automation",
-    "imageSrc": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*IDNPS3cwd1ykTVjTKhaf3Q.jpeg",
-    "description": "implemented Cronjob for automation in backup and other Tasks"
+    "title": "Server Monitoring",
+    "imageSrc": "https://w7.pngwing.com/pngs/434/923/png-transparent-grafana-hd-logo-thumbnail.png",
+    "description": "configured Nagios and prometheus to monitor the servers and presented in Grafana"
     
   },
   {
     "key": 4,
     "title": "Linux/Git/Bash-Scipting",
-    "imageSrc": "https://cdn.ourcodeworld.com/public-media/articles/git-latest-version-ubuntu-2004-6308ef509f4fe.jpg",
+    "imageSrc": "https://w7.pngwing.com/pngs/93/966/png-transparent-shell-script-command-line-interface-unix-shell-bash-shell-commandline-interface-bird-command-thumbnail.png",
     "description": "implemented Git,Linux Commands and Bash Scripts"
    
   },

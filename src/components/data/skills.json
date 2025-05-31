@@ -16,12 +16,12 @@
     "imageSrc": "skills/n.png"
   },
   {
-    "title": "Cronjob",
-    "imageSrc": "skills/cro.png"
+    "title": "Kubernetes|Helm",
+    "imageSrc": "skills/k8s.png"
   },
   {
-    "title":"GIT/Github/Lab",
-    "imageSrc":"skills/gh.png"
+    "title":"Argo CD",
+    "imageSrc":"skills/arg.png"
   },
   {
     "title": "Bash scripting",
@@ -30,7 +30,15 @@
   {
     "title": "Golang",
     "imageSrc": "skills/go.png"
+  },
+   {
+    "title": "Grafana|Nagios",
+    "imageSrc": "skills/grafana.png"
   }
-  
+   ,
+    {
+    "title": "Prometheus",
+    "imageSrc": "skills/prom.png"
+  }  
   
 ]

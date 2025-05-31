@@ -3,9 +3,7 @@
     "id": 1,
     "role": "Learning & Gaining experience",
     "experiences": [
-      "DevOps Enthusiast with a strong foundation in Linux system administration, scripting, and networking. ",
-      " Proficient in automation techniques, version control (Git/GitHub), and building CI/CD pipelines using GitLab CI/CD. Skilled in deploying and managing web servers (Nginx) and working with the Docker & Containers."
-    ],
+      "exploring the world of Linux and DevOps. learning, building, and growing one step at a time."    ],
     "imageSrc": "Framework/dd.png"
   }
 ]
